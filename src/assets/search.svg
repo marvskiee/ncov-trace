@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L246 0L246 246L0 246L0 0Z" id="path_1" />
+    <rect width="300" height="300" id="artboard_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#artboard_1" clip-rule="evenodd" />
+    </clipPath>
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Artboard-3" clip-path="url(#clip_1)">
+    <use xlink:href="#artboard_1" stroke="none" fill="#F6F6F6" fill-opacity="0" />
+    <g id="Search-icon" transform="translate(27.214233 28)">
+      <path d="M0 0L246 0L246 246L0 246L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M105.063 30.7502C64.1422 30.7502 30.75 64.1425 30.75 105.063C30.75 145.983 64.1422 179.375 105.063 179.375C121.837 179.375 137.293 173.702 149.756 164.261L197.753 212.247C200.324 214.925 204.141 216.004 207.733 215.067C211.325 214.131 214.13 211.326 215.067 207.734C216.003 204.142 214.925 200.324 212.247 197.753L164.26 149.756C173.702 137.293 179.375 121.838 179.375 105.063C179.375 64.1425 145.983 30.7502 105.063 30.7502L105.063 30.7502ZM105.063 51.2501C134.904 51.2501 158.876 75.2213 158.876 105.063C158.876 119.391 153.31 132.331 144.261 141.949C143.381 142.586 142.607 143.36 141.969 144.241C132.349 153.301 119.401 158.875 105.063 158.875C75.2219 158.875 51.2506 134.904 51.2506 105.063C51.2506 75.2213 75.2219 51.2501 105.063 51.2501L105.063 51.2501Z" id="Shape" fill="#1D1B1B" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>
